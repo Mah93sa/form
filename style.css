@@ -1,0 +1,32 @@
+@charset "utf-8";
+body{
+	font-family:"sans-serif";
+	background-color:bisque; 
+	width:66%; 
+	margin:auto;
+	font-size: 20px;
+}
+form{
+	font-family:"sans-serif";
+	padding: 20px; 
+	margin: 30px; 
+	background-color:gray;
+	width: 480px;
+}
+
+input{
+    font-family: "sans-serif";
+    width: 90%;
+    font-size: 20px;
+    margin: 0.5rem;
+	
+}
+
+label{
+	color: white;
+}
+
+h1{
+	text-align: center;
+}
+
